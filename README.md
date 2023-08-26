@@ -1,5 +1,6 @@
 # covid_analysis_protfolio_project
-portfolio project analysis on covid and vaccination data using sql, tableau, python
+portfolio project analysis on covid and vaccination data using sql, tableau, python. 
+In this project, I conducted exploratory data analysis on covid-19 global dataset mainly in SQL and published graphics for findings in Tableau. The sql file contains the analysis portion.
 data from https://ourworldindata.org/covid-deaths
 
 
