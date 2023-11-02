@@ -1,4 +1,4 @@
--- query for datas used for tableau
+-- query for data used for tableau
 
 select sum(new_cases) as total_cases, sum(new_deaths) as total_deaths, sum(cast(new_deaths as float)) / sum(cast(new_cases as float)) * 100 as MortalityRate
 from dbo.covid_dat
